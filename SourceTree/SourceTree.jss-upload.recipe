@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>io.github.hjuutilainen.download.SourceTree</string>
+	<string>io.github.hjuutilainen.pkg.SourceTree</string>
 	<key>Process</key>
 	<array>
 		<dict>
