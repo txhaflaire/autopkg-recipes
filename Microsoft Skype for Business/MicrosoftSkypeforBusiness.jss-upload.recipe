@@ -12,6 +12,8 @@
 		<string>Software - Unlicensed</string>
 		<key>NAME</key>
 		<string>SkypeForBusiness</string>
+		<key>SOFTWARETITLE</key>
+		<string>SkypeForBusiness</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
