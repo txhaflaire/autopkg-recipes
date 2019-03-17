@@ -11,12 +11,12 @@
 		<key>CATEGORY</key>
 		<string>Software - Unlicensed</string>
 		<key>NAME</key>
-		<string>AdobeAcrobatReaderDC</string>
+		<string>AdobeReaderDC</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.autopkg.pkg.AdobeReaderDC</string>
+	<string>com.github.rtrouton.pkg.AdobeReaderDC</string>
 	<key>Process</key>
 	<array>
 		<dict>
