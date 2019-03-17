@@ -14,6 +14,8 @@
 		<string>SkypeForBusiness</string>
 		<key>SOFTWARETITLE</key>
 		<string>SkypeForBusiness</string>
+		<key>VENDOR</key>
+		<string></string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
