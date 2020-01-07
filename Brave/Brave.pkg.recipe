@@ -20,7 +20,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.apettinen.download.Brave</string>
+	<string>com.github.apettinen.download.brave</string>
 	<key>Process</key>
 	<array>
 		<dict>
