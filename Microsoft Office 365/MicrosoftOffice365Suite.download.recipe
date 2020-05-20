@@ -33,7 +33,7 @@
                 <key>url</key>
                 <string>%DOWNLOAD_URL_BASE%%ID%</string>
                 <key>filename</key>
-                <string>MSOffice365-%version%.pkg</string>
+                <string>MSOffice365-Latest.pkg</string>
             </dict>
         </dict>
         <dict>
